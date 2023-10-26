@@ -1,1 +1,21 @@
+Purple
+#A56DB0
 
+Lightmode pink
+#DE83A9
+
+Darkmode pink
+#D16D9C
+
+Darkmode background color
+#202025
+
+Fonty:
+
+Nunito
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+font-family:'Nunito', sans-serif;
+
+Lora
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+font-family: 'Lora', serif;
